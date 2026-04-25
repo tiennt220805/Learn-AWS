@@ -30,9 +30,12 @@ Ví dụ:
 Question 1  
 What does Amazon EC2 provide?
 
-A. Managed database  
-B. Virtual servers in the cloud  
-C. DNS service  
+A. Managed database
+
+B. Virtual servers in the cloud
+
+C. DNS service
+
 D. Object storage
 
 Phải ghi lại y chang bố cục như trên.
@@ -88,8 +91,11 @@ Nếu đây là phần tiếp nối ghi chú trước đó thì ghi:
 [Câu hỏi giữ nguyên từ ảnh]
 
 A. ...
+
 B. ...
+
 C. ...
+
 D. ...
 
 ✅ **Đáp án đúng:** B

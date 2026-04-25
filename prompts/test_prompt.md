@@ -155,6 +155,28 @@ D. ...
 
 ✅ Correct Answer: ...
 
+## QUY TẮC XUỐNG HÀNG:
+
+- Mỗi đáp án A/B/C/D phải cách nhau 1 dòng trống
+- Phải xuống dòng đúng như mẫu trên
+- Không được viết liền 4 đáp án trên 1 block
+- Mục đích để Markdown render đúng line break
+
+## Không được thêm:
+
+- Không đáp án
+- Không hint
+- Không explanation
+- Không markdown code block
+- Không citation
+- Không reference
+- Không source
+- Không link
+- Không [cite:]
+- Không [cite_start]
+- Không [cite_end]
+- Không bất kỳ tag tự động nào
+
 ### 🧠 Explanation
 
 (giải thích tiếng Việt)
