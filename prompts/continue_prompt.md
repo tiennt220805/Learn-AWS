@@ -1,7 +1,7 @@
 ````markdown
 Tiếp tục ghi chú module trước đó.
 
-Yêu cầu:
+## Yêu cầu:
 
 - Không lặp lại tiêu đề module và overview
 - Chỉ tiếp tục phần mới
@@ -11,6 +11,16 @@ Yêu cầu:
 - “Highlight keyword quan trọng bằng **bold**”
 - Giữ nguyên quy tắc tiếng Anh + giải thích tiếng Việt
 - Không thêm citation, reference, link
+
+## Không được thêm:
+
+- Không citation
+- Không reference
+- Không link
+- Không [cite:]
+- Không [cite_start]
+- Không [cite_end]
+- Không bất kỳ tag tự động nào
 
 FORMAT:
 

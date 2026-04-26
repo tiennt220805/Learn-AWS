@@ -20,7 +20,7 @@
 
 ### 3. Storage (Lưu trữ)
 
-- [ ] **Module 4:** Adding a Storage Layer with Amazon S3 (S3, EBS, EFS)
+- [x] **Module 4:** Adding a Storage Layer with Amazon S3 (S3, EBS, EFS)
 
 **_Dịch vụ trọng tâm_**: Amazon S3, EBS, EFS
 
