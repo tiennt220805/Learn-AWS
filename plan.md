@@ -26,7 +26,7 @@
 
 ### 4. Compute (EC2/ASG/LB - Tính toán & Cân bằng tải)
 
-- [ ] **Module 5:** Adding a Compute Layer Using Amazon EC2
+- [x] **Module 5:** Adding a Compute Layer Using Amazon EC2
 - [ ] **Module 10:** Implementing Monitoring, Elasticity, and High Availability (Auto Scaling & ELB)
 
 **_Dịch vụ trọng tâm_**: EC2, Auto Scaling, Elastic Load Balancing (ALB/NLB)
