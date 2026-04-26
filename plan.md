@@ -33,7 +33,7 @@
 
 ### 5. Database (Cơ sở dữ liệu)
 
-- [ ] **Module 6:** Adding a Database Layer (RDS, DynamoDB, Aurora)
+- [x] **Module 6:** Adding a Database Layer (RDS, DynamoDB, Aurora)
 
 **_Dịch vụ trọng tâm_**: RDS, DynamoDB, Aurora
 

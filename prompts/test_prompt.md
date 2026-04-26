@@ -29,6 +29,64 @@ Dựa trên toàn bộ nội dung module AWS hiện tại, hãy tạo cho tôi *
 - 6 câu lý thuyết
 - 14 câu tình huống thực tế
 
+## QUY TẮC PHÂN BỔ ĐÁP ÁN ĐÚNG (RẤT QUAN TRỌNG)
+
+Đối với 20 câu trắc nghiệm, đáp án đúng không được thiên lệch chỉ vào B hoặc C.
+
+Phải phân bổ ngẫu nhiên và cân bằng giữa A / B / C / D.
+
+## Yêu cầu cụ thể:
+
+- Đáp án đúng A: khoảng 5 câu
+- Đáp án đúng B: khoảng 5 câu
+- Đáp án đúng C: khoảng 5 câu
+- Đáp án đúng D: khoảng 5 câu
+
+## Quy tắc thêm:
+
+- Không được để chuỗi lặp dễ đoán như:
+  A A A A
+  B B B B
+  C C C C
+  A B C D A B C D
+
+- Phân bổ phải tự nhiên như đề thi thật
+- Thứ tự đáp án đúng phải random
+- Không để người làm đoán mẹo theo pattern
+
+## Ví dụ phân bổ tốt:
+
+1C
+2A
+3D
+4B
+5B
+6A
+7D
+8C
+9A
+10C
+11B
+12D
+13A
+14C
+15D
+16B
+17A
+18D
+19B
+20C
+
+## Áp dụng khi tạo câu hỏi:
+
+- Khi viết options A/B/C/D, hãy đảo vị trí đáp án đúng phù hợp
+- Không chỉ đổi chữ cái, mà nội dung đáp án cũng phải hợp lý
+- Các đáp án nhiễu phải đủ tin cậy
+
+## Kiểm tra trước khi trả lời:
+
+Trước khi xuất 20 câu hỏi, hãy tự kiểm tra phân bổ đáp án đúng đã cân bằng chưa. Nếu chưa, hãy chỉnh lại trước khi gửi.
+
 ## Yêu cầu chi tiết:
 
 ### 1. Câu lý thuyết (6 câu)
