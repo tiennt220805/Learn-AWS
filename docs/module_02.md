@@ -487,8 +487,11 @@ E. Security and access control
 Which of the following is the best definition of cloud architecture?
 
 A. Managing on-premises hardware more effectively by using internet-connected tools
+
 B. Relocating traditional data centers to shared physical facilities managed by a third party
+
 C. Applying cloud characteristics to a solution to meet technical and business requirements
+
 D. Designing web services using only frontend software components
 
 ✅ Correct Answer: C
@@ -510,8 +513,11 @@ Kiến trúc đám mây là việc áp dụng các đặc tính của điện to
 How many pillars are currently defined in the AWS Well-Architected Framework?
 
 A. Four
+
 B. Five
+
 C. Six
+
 D. Seven
 
 ✅ Correct Answer: C
@@ -531,8 +537,11 @@ Khung thiết kế tối ưu của AWS (AWS Well-Architected Framework) hiện t
 Which pillar of the AWS Well-Architected Framework focuses on the ability of a system to recover from service or infrastructure disruptions?
 
 A. Security
+
 B. Reliability
+
 C. Operational Excellence
+
 D. Performance Efficiency
 
 ✅ Correct Answer: B
@@ -554,8 +563,11 @@ Trụ cột **Reliability** (Độ tin cậy) tập trung vào khả năng tự 
 Which component of the AWS Global Infrastructure consists of one or more discrete data centers with redundant power and networking?
 
 A. AWS Region
+
 B. Edge Location
+
 C. Availability Zone
+
 D. Local Zone
 
 ✅ Correct Answer: C
@@ -577,8 +589,11 @@ D. Local Zone
 What is a key benefit of using Infrastructure as Code (IaC)?
 
 A. It increases the manual effort required to provision resources
+
 B. It reduces configuration errors caused by manual processes
+
 C. It allows users to manage the physical security of data centers
+
 D. It eliminates the need for monitoring services like CloudWatch
 
 ✅ Correct Answer: B
@@ -600,8 +615,11 @@ Hạ tầng dưới dạng mã (IaC) cho phép triển khai tài nguyên bằng 
 Which design principle helps to ensure that a failure in one component does not cause the entire system to fail?
 
 A. Tight coupling
+
 B. Loose coupling
+
 C. Manual scaling
+
 D. Vertical scaling
 
 ✅ Correct Answer: B
@@ -622,8 +640,11 @@ D. Vertical scaling
 Which AWS service provides an action plan with step-by-step guidance on how to build better workloads based on best practices?
 
 A. AWS Management Console
+
 B. Amazon CloudWatch
+
 C. AWS Well-Architected Tool
+
 D. AWS Trusted Advisor
 
 ✅ Correct Answer: C
@@ -645,8 +666,11 @@ D. AWS Trusted Advisor
 A company needs to run latency-sensitive portions of their application closer to end users in a specific geography where no AWS Region exists. Which service should they use?
 
 A. AWS Local Zones
+
 B. Edge Locations
+
 C. Availability Zones
+
 D. Regional Edge Caches
 
 ✅ Correct Answer: A
@@ -668,8 +692,11 @@ D. Regional Edge Caches
 Which best practice involves using Amazon CloudFront to minimize redundant data retrieval operations?
 
 A. Data replication
+
 B. Caching
+
 C. Automation
+
 D. Scalability
 
 ✅ Correct Answer: B
@@ -691,8 +718,11 @@ D. Scalability
 What does the "Principle of Least Privilege" refer to in the Security pillar?
 
 A. Granting all users administrative access to simplify management
+
 B. Providing only the necessary access required to perform a specific task
+
 C. Reducing the cost of security services by limiting their usage
+
 D. Allowing public access to all S3 buckets for ease of sharing
 
 ✅ Correct Answer: B
@@ -713,8 +743,11 @@ Nguyên tắc quyền hạn tối thiểu yêu cầu chỉ cấp cho người d�
 When designing for "Disposable Resources", what should a cloud architect automate?
 
 A. The manual backup of every database hourly
+
 B. The provisioning, termination, and configuration of resources
+
 C. The physical maintenance of server racks
+
 D. The documentation of every technical change in a paper log
 
 ✅ Correct Answer: B
@@ -735,8 +768,11 @@ Tài nguyên đám mây nên được coi là tạm thời (có thể thay thế
 In the context of the Sustainability pillar, which action helps minimize environmental impact?
 
 A. Running all servers 24/7 at 10% utilization
+
 B. Maximizing resource utilization to avoid waste
+
 C. Using only on-premises data centers
+
 D. Avoiding the use of managed services
 
 ✅ Correct Answer: B
@@ -758,8 +794,11 @@ Trụ cột Bền vững khuyến khích tối đa hóa việc sử dụng tài 
 Which of the following is a design trade-off example mentioned in AWS best practices?
 
 A. Trading security for lower cost
+
 B. Trading consistency and durability for lower latency and higher performance
+
 C. Trading automation for more manual control
+
 D. Trading scalability for fixed infrastructure
 
 ✅ Correct Answer: B
@@ -780,8 +819,11 @@ Khi thiết kế, đôi khi bạn cần đánh đổi sự nhất quán dữ li�
 What is the primary purpose of an AWS Region?
 
 A. To provide a single data center for all global customers
+
 B. To serve as a geographical area that contains multiple Availability Zones
+
 C. To cache content closer to end users for faster delivery
+
 D. To provide a physical location for customers to store their own hardware
 
 ✅ Correct Answer: B
@@ -803,8 +845,11 @@ AWS Region là một khu vực địa lý riêng biệt trên thế giới, bên
 Which pillar focuses on avoiding unneeded expenses and using managed services to reduce the cost of ownership?
 
 A. Performance Efficiency
+
 B. Operational Excellence
+
 C. Cost Optimization
+
 D. Reliability
 
 ✅ Correct Answer: C
@@ -826,8 +871,11 @@ Trụ cột **Cost Optimization** (Tối ưu hóa chi phí) tập trung vào vi�
 What is the most effective way to handle a server failure according to AWS best practices?
 
 A. Have an administrator manually restart the server via the console
+
 B. Use Amazon CloudWatch to detect the failure and initiate automation to provision a new server
+
 C. Wait for users to report the error before taking any action
+
 D. Replicate the entire data center to another Region immediately
 
 ✅ Correct Answer: B
@@ -849,8 +897,11 @@ Cách tối ưu nhất là dùng hệ thống giám sát (CloudWatch) tự độ
 Which architecture pattern ensures that if a primary database server fails, a secondary server can pick up the load?
 
 A. Vertical scaling
+
 B. Standby replication
+
 C. Full mesh networking
+
 D. Static caching
 
 ✅ Correct Answer: B
@@ -872,8 +923,11 @@ Việc tạo một server dự phòng (Standby) và sao chép dữ liệu liên 
 What is a "Point of Presence" (PoP) in the context of AWS Global Infrastructure?
 
 A. A specific AWS Region with the highest number of customers
+
 B. A location used by CloudFront to deliver content with lower latency
+
 C. The physical office of an AWS Solutions Architect
+
 D. A backup data center used only for disaster recovery
 
 ✅ Correct Answer: B
@@ -893,8 +947,11 @@ PoP bao gồm các Edge Locations và Regional Edge Caches, giúp Amazon CloudFr
 Which design principle encourages "Designing services, not servers"?
 
 A. Using EC2 instances for every application component
+
 B. Utilizing containers or serverless solutions when appropriate
+
 C. Building custom hardware protocols for internal networking
+
 D. Maintaining long-running servers that are never rebooted
 
 ✅ Correct Answer: B
@@ -915,8 +972,11 @@ Thay vì tự quản lý và bảo trì các server (EC2), AWS khuyến khích d
 Which pillar of the Well-Architected Framework emphasizes viewing the entire workload as code and continually improving processes?
 
 A. Reliability
+
 B. Security
+
 C. Operational Excellence
+
 D. Sustainability
 
 ✅ Correct Answer: C
