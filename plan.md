@@ -40,7 +40,7 @@
 ### 6. Networking/VPC (Mạng và VPC)
 
 - [x] **Module 7:** Creating a Networking Environment (VPC, Subnet)
-- [ ] **Module 8:** Connecting Networks (Peering, VPN, Direct Connect)
+- [x] **Module 8:** Connecting Networks (Peering, VPN, Direct Connect)
 
 **_Dịch vụ trọng tâm_**: VPC, Subnets, Route Tables, NAT Gateway, VPN, Direct Connect
 
