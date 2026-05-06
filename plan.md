@@ -14,7 +14,7 @@
 ### 2. Security/IAM (Bảo mật và Định danh)
 
 - [x] **Module 3:** Securing Access (IAM cơ bản)
-- [ ] **Module 9:** Securing User, Application, and Data Access (Bảo mật nâng cao)
+- [x] **Module 9:** Securing User, Application, and Data Access (Bảo mật nâng cao)
 
 **_Dịch vụ trọng tâm_**: IAM Users/Roles/Policies, KMS, Shield, WAF
 
