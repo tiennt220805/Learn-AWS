@@ -27,7 +27,7 @@
 ### 4. Compute (EC2/ASG/LB - Tính toán & Cân bằng tải)
 
 - [x] **Module 5:** Adding a Compute Layer Using Amazon EC2
-- [ ] **Module 10:** Implementing Monitoring, Elasticity, and High Availability (Auto Scaling & ELB)
+- [x] **Module 10:** Implementing Monitoring, Elasticity, and High Availability (Auto Scaling & ELB)
 
 **_Dịch vụ trọng tâm_**: EC2, Auto Scaling, Elastic Load Balancing (ALB/NLB)
 
@@ -46,7 +46,7 @@
 
 ### 7. IaC + Monitoring (Tự động hóa & Giám sát)
 
-- [ ] **Module 10:** Implementing Monitoring (CloudWatch - tiếp nối phần Compute)
+- [x] **Module 10:** Implementing Monitoring (CloudWatch - tiếp nối phần Compute)
 - [ ] **Module 11:** Automating Your Architecture (CloudFormation)
 
 **_Dịch vụ trọng tâm_**: IaC: CloudFormation; Monitoring: CloudWatch, CloudTrail
