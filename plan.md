@@ -59,7 +59,7 @@
 
 ### 9. Messaging (Truyền tin & Giải nối kết)
 
-- [ ] **Module 13:** Building Decoupled Architectures (SQS, SNS)
+- [x] **Module 13:** Building Decoupled Architectures (SQS, SNS)
 
 **_Dịch vụ trọng tâm_**: SQS, SNS, Amazon MQ (Decoupling)
 
