@@ -53,7 +53,7 @@
 
 ### 8. CDN (Mạng phân phối nội dung)
 
-- [ ] **Module 12:** Caching Content (Amazon CloudFront)
+- [x] **Module 12:** Caching Content (Amazon CloudFront)
 
 **_Dịch vụ trọng tâm_**: Amazon CloudFront (Edge locations)
 
