@@ -65,13 +65,13 @@
 
 ### 10. Serverless/Lambda (Kiến trúc không máy chủ)
 
-- [ ] **Module 14:** Building Serverless Architectures and Microservices (AWS Lambda)
+- [x] **Module 14:** Building Serverless Architectures and Microservices (AWS Lambda)
 
 **_Dịch vụ trọng tâm_**: AWS Lambda, API Gateway
 
 ### 11. Containers (Container hóa)
 
-- [ ] **Module 14:** Building Serverless Architectures and Microservices (ECS, EKS, Fargate)
+- [x] **Module 14:** Building Serverless Architectures and Microservices (ECS, EKS, Fargate)
 
 **_Dịch vụ trọng tâm_**: ECS, EKS, Fargate (thường đi kèm Microservices)
 
