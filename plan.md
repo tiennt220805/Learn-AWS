@@ -47,7 +47,7 @@
 ### 7. IaC + Monitoring (Tự động hóa & Giám sát)
 
 - [x] **Module 10:** Implementing Monitoring (CloudWatch - tiếp nối phần Compute)
-- [ ] **Module 11:** Automating Your Architecture (CloudFormation)
+- [x] **Module 11:** Automating Your Architecture (CloudFormation)
 
 **_Dịch vụ trọng tâm_**: IaC: CloudFormation; Monitoring: CloudWatch, CloudTrail
 
